@@ -1,0 +1,5 @@
+
+C:\Users\TasosLytos\Desktop\thesis\v2\POSTagger>java -mx300m -cp "stanford-postagger.jar;lib/*" edu.stanford.nlp.tagger.maxent.MaxentTagger -model models\wsj-0-18-left3words-distsim.tagger -textFile processed_output_twitter.txt 
+Multitasking_VBG at_IN its_PRP$ finest_JJS ._.
+Dinner_NN ,_, movie_NN time_NN and_CC studying_VBG ._.
+-LRB-_-LRB- IG_NNP :_: miss_moni_NNS __VBP -RRB-_-RRB- https://t.co/bevc1bwjy2_NNS

@@ -1,0 +1,3 @@
+
+C:\Users\TasosLytos\Desktop\thesis\v2\POSTagger>java -mx300m -cp "stanford-postagger.jar;lib/*" edu.stanford.nlp.tagger.maxent.MaxentTagger -model models\wsj-0-18-left3words-distsim.tagger -textFile processed_output.txt 
+Terminate batch job (Y/N)? 
